@@ -16,7 +16,7 @@ body{
 .image{
     position: relative;
     top: -10%;
-    background-image: url('./assets/Screenshot\ 2021-01-19\ 121039.png');
+    background-image: url('./assets/Logo.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
