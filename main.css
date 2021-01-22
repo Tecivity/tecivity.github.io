@@ -16,7 +16,7 @@ body{
 .image{
     position: relative;
     top: -10%;
-    background-image: url('./assets/Logo.png');
+    background-image: url('./assets/TecivityLogo.svg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
